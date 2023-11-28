@@ -5,4 +5,6 @@ Instructions and assignments are specified in the Assignment_0.pdf file.
 
 The ' Assignment 1 - EMG ' is about EMG signal pre-processing and control.
 
+The ' Presentation ' is just a presentation about 1 of several topics the Professor gave us with the goal of explaining the topic to the class.
+
 In updating..
