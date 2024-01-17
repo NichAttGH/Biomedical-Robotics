@@ -7,4 +7,6 @@ The ' Assignment 1 - EMG ' is about EMG signal pre-processing and control.
 
 The ' Presentation ' is just a presentation about 1 of several topics the Professor gave us with the goal of explaining the topic to the class.
 
+The ' Assignment 3 - Touch X ' is 
+
 In updating..
